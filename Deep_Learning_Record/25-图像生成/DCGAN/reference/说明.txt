@@ -1,0 +1,4 @@
+1.生成二次元头像使用网上的参考代码，修改读取数据的路径后可以直接在pycharm上运行
+https://blog.csdn.net/qq_43815869/article/details/109121772
+2.使用的数据集是龙良曲老师教程中的pokmon-faces
+其实是二次元动漫的头像，就像我们参考链接上显示的那样，jpg文件名乱七八糟的，所以写了个修改文件名的.py文件datarename.py
